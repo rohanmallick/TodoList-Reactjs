@@ -7,6 +7,10 @@
 ```
 Todolist for daily uses
 ```
+## Hosted
+```
+https://rohanmallick.github.io/TodoList-Reactjs/
+```
 
 ## Linkedin
 
